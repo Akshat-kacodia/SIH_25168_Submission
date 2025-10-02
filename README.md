@@ -40,7 +40,7 @@ Our project addresses the urgent challenges in modern agriculture—soil degrada
 
 # Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](https://github.com/Akshat-kacodia/SIH_2025_Internal_Round_Submission_Template-/blob/main/files/FarmAssistPPT.pdf)
+- **SIH Presentation:** [Final SIH Presentation](https://github.com/Akshat-kacodia/SIH_25168_Submission/blob/main/files/farmAssist%20_25168_submission.pdf)
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=2u1G8Ja4Yrc)
 - **Live Deployment:** [View Deployment](https://crop-health-dashboard-ten.vercel.app/)
 - **Source Code:** [GitHub Repository - FRONTEND](https://github.com/Amnsngh0904/crop-health-dashboard) | [GitHub Repository - BACKEND(MATLAB MODELS)](https://github.com/mishra-bytes/FarmAssist) 
